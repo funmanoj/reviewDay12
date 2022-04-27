@@ -1,0 +1,8 @@
+Psudo code for trailing zero
+
+1) read the number from input
+2) take factorial as zero 
+3) use for loop for getting factorial of 10 and 4.
+4) Count the number of zeros in the factorial one by one.
+
+
