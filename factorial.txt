@@ -1,3 +1,4 @@
+
 Psudo code for trailing zero
 
 1) read the number from input
